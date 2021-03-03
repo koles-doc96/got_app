@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.slpash.SplashFragment">
+
+   <ImageView
+       android:id="@+id/splash_screen_image"
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:contentDescription="@string/splash_sceen_description"
+       android:scaleType="centerCrop"
+       android:src="@drawable/splash_layout"
+       />
+
+   <ImageView
+       android:id="@+id/image_animated_dragon"
+       android:layout_width="120dp"
+       android:layout_height="120dp"
+       android:src="@drawable/animatorvectordrawable"
+       android:layout_gravity="bottom|end"
+       android:layout_margin="@dimen/big_dimen"
+       />
+
+</FrameLayout>

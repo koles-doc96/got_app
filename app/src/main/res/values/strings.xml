@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Game of Thrones</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="splash_sceen_description">game_of_thrones_image</string>
+
+
+    <!--Tab strings-->
+    <string name="stark_house">Stark</string>
+    <string name="lannister_house">Lannister</string>
+    <string name="targaryen_house">Targaryen</string>
+    <string name="baratheon_house">Baratheon</string>
+    <string name="greyjoy_house">Greyjoy</string>
+    <string name="martel_house">Martel</string>
+    <string name="tyrel_house">Tyrel</string>
+    <string name="tools_big_text">very big text with very big number of words and very big number of characters</string>
+</resources>
